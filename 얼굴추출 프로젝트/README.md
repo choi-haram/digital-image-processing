@@ -56,7 +56,9 @@ eyeCascade.delete(); faces.delete(); eyes.delete();
 우리팀은 OpenCV 라이브러리에 있는 Haar Cascade를 사용하여 얼굴 추출을 해보았다.
 
 ### 입력사진<br>
-![대체 텍스트](./KakaoTalk_Photo_2022-11-10-20-46-23.png)<br>
+<img width="312" alt="입력 사진" src="https://user-images.githubusercontent.com/62204475/201570900-fee0c8c9-c1ce-462f-bd7d-aa34ce7a2245.png">
+
 
 ### 출력사진<br>
-![대체 텍스트](./Untitled.png)<br>
+![출력 사진](https://user-images.githubusercontent.com/62204475/201570879-4a362455-e913-4513-ad8e-10d4b2beff83.png)
+
