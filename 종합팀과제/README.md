@@ -8,7 +8,7 @@
 ## 실행환경
 - MacOS : 12.3.1
 - Visual Studio Code : 1.73.1 (Universal)
-- [Visual Studio Code 확장 기능] Live Server : v5.7.4
+- [Visual Studio Code 확장] Live Server : v5.7.4
 
 ## 사용한 라이브러리
 
